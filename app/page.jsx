@@ -50,25 +50,26 @@ export default function Home() {
         </Button>
       </Card>
       <InfoBox Header="What's this about?">
-        Highlands is a mountain themed YSWS where you code, do hardware, climb
-        mountains and earn prizes such as hiking gear, earphones, 3d printers,
-        and more + a chance to be invited to an IRL hackathon in Armenia.
+        Highlands is a mountain themed YSWS where you code or do hardware, climb
+        digital mountains and earn prizes such as hiking gear, earphones, 3d
+        printers, and more + a chance to be invited to an IRL hackathon in
+        Armenia.
       </InfoBox>
 
       <InfoBox Header="What is the Highlands Challenge?">
         The optional Highlands challenge is about climbing mountains using
-        hackatime hours and receiving extra shop currency after completing one.
-        A mountain will feature multiple stages to complete with different time
-        requirements and limits.
+        hackatime and/or lapse hours and receiving extra shop currency after
+        completing one. A mountain will feature multiple stages to complete with
+        different time requirements and limits.
       </InfoBox>
 
       <InfoBox Header="Where is Armenia?">
         Armenia is in the Southern Caucasus, between Iran, Georgia, and Turkey!
         Armenia is considered the 10th most mountainous nation, hence the name
         &quot;Highlands.&quot; I would like this YSWS to happen in Yerevan, the
-        capital, because it provides the most flexibility. Also, flights are
-        available from European, Central Asian, and Middle Eastern cities, and
-        it&apos;s visa-free for most nations.
+        capital, because it provides the most flexibility. Flights are available
+        from European, Central Asian, and Middle Eastern cities, and it&apos;s
+        visa-free for most nations.
       </InfoBox>
 
       <InfoBox Header="Is there anything in Yerevan?">
