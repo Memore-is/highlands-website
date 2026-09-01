@@ -52,15 +52,15 @@ export default function Home() {
       <InfoBox Header="What's this about?">
         Highlands is a mountain themed YSWS where you code or do hardware, climb
         digital mountains and earn prizes such as hiking gear, earphones, 3d
-        printers, and more + a chance to be invited to an IRL hackathon in
+        printers, and more + a chance to get invited to an IRL hackathon in
         Armenia.
       </InfoBox>
 
       <InfoBox Header="What is the Highlands Challenge?">
-        The optional Highlands challenge is about climbing mountains using
-        hackatime and/or lapse hours and receiving extra shop currency after
-        completing one. A mountain will feature multiple stages to complete with
-        different time requirements and limits.
+        The optional Highlands challenge is about climbing mountains through
+        time spent working on code and/or hardware projects and receiving extra
+        shop currency after completing one. A mountain will feature multiple
+        stages to complete with different time requirements and limits.
       </InfoBox>
 
       <InfoBox Header="Where is Armenia?">
