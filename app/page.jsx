@@ -50,35 +50,31 @@ export default function Home() {
         </Button>
       </Card>
       <InfoBox Header="What's this about?">
-        This is a mountain themed YSWS where you code hours and can earn prizes
-        like earbuds, credits, games, 3d printers, and more! Plus we&apos;ll
-        have hiking equipment as prizes! And if you code for enough hours, you
-        can even earn a ticket for a hackathon in Yerevan, Armenia!
+        Highlands is a mountain themed YSWS where you code, do hardware, climb
+        mountains and earn prizes such as hiking gear, earphones, 3d printers,
+        and more + a chance to be invited to an IRL hackathon in Armenia.
       </InfoBox>
 
       <InfoBox Header="What is the Highlands Challenge?">
-        The Highlands challenge involves climbing digital mountains in the
-        dashboard to obtain free shop currency. A mountain will have stages,
-        which will require certain amounts of hours. For example, a mountain
-        could have 5h, 8h, 4h stages. You must complete a stage in the specified
-        amount of time or else you&apos;ll fall from the mountain. As the
-        mountains get taller, you&apos;ll be rewarded with more shop currency!
+        The optional Highlands challenge is about climbing mountains using
+        hackatime hours and receiving extra shop currency after completing one.
+        A mountain will feature multiple stages to complete with different time
+        requirements and limits.
       </InfoBox>
 
       <InfoBox Header="Where is Armenia?">
         Armenia is in the Southern Caucasus, between Iran, Georgia, and Turkey!
         Armenia is considered the 10th most mountainous nation, hence the name
         &quot;Highlands.&quot; I would like this YSWS to happen in Yerevan, the
-        capital, because it provides the most flexibility. Also, most major
-        European and Middle Eastern airlines fly to Armenia, and it&apos;s
-        visa-free for most nations.
+        capital, because it provides the most flexibility. Also, flights are
+        available from European, Central Asian, and Middle Eastern cities, and
+        it&apos;s visa-free for most nations.
       </InfoBox>
 
       <InfoBox Header="Is there anything in Yerevan?">
         There are a lot of places to visit in Yerevan. Most famous sites in
         Yerevan include the cascade complex, Tsitsernakaberd, Republic Square,
-        The National History Museum, the Opera, and even the Metro here + more
-        outside of Yerevan
+        The National History Museum, the Opera, and more outside of Yerevan
       </InfoBox>
     </Box>
   );
